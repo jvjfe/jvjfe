@@ -5,10 +5,13 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=jvjfe&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 
+
+
+
 ## Quem sou eu? 🤔
 
 Sou um entusiasta de tecnologia, fã de Pokémon e Ordem Paranormal. 🎮👻
-Adoro música Rock antiga e bandas alternativas japonesas (sim, elas são incríveis! 🤩).
+Adoro música Rock antiga e bandas alternativas japonesas (sim, ninguém deve conhecer essas bandas ksksaksk🤩).
 Estou sempre estudando novas linguagens de programação e ferramentas para melhorar minhas habilidades. 📚💻
 Se eu foco em algo, eu vou aperfeiçoar até o máximo! 🔥
 Adoro Videogames, RPG's, Animes e principalmente a Tecnologia! 🎮📺💻
