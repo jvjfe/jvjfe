@@ -4,12 +4,12 @@
 
 <img align='center' src="https://img.shields.io/static/v1?label=Overview&message=jvjfe&color=8eff94&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false" alt="Github Stats">
+<img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=jvjfe&theme=dark&hide_border=false" alt="Github Stats">
 
 
 
 
-Quem sou eu? 🤔
+## Quem sou eu? 🤔
 
 Sou um entusiasta de tecnologia, fã de Pokémon e Ordem Paranormal. 🎮👻
 Adoro música Rock antiga e bandas alternativas japonesas (sim, ninguém deve conhecer essas bandas ksksaksk🤩).
