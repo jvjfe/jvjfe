@@ -1,4 +1,4 @@
-## Prazer, Jvjfe! 👋
+# Prazer, Jvjfe! 👋
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jvjfe&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
@@ -8,7 +8,7 @@
 
 
 
-# Quem sou eu? 🤔
+Quem sou eu? 🤔
 
 Sou um entusiasta de tecnologia, fã de Pokémon e Ordem Paranormal. 🎮👻
 Adoro música Rock antiga e bandas alternativas japonesas (sim, ninguém deve conhecer essas bandas ksksaksk🤩).
