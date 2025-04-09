@@ -8,7 +8,7 @@
 
 
 
-## Quem sou eu? 🤔
+# Quem sou eu? 🤔
 
 Sou um entusiasta de tecnologia, fã de Pokémon e Ordem Paranormal. 🎮👻
 Adoro música Rock antiga e bandas alternativas japonesas (sim, ninguém deve conhecer essas bandas ksksaksk🤩).
