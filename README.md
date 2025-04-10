@@ -5,12 +5,8 @@
     <td>   
      <img align='right' src="https://github-readme-stats.vercel.app/api?username=jvjfe&show_icons=true&title_color=0e0e0e&text_color=0e0e0e&icon_color=007706&bg_color=8eff94&cache_seconds=2300" alt="ilustração do status do github">
     </td> 
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvjfe&theme=dark&hide_border=false" alt="Github Stats">
-    </td>
   </tr>
 </table>
-
 
 
 ## Quem sou eu? 🤔
@@ -26,3 +22,14 @@
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<div align="center">
+  <h3><b>Quantos já visitaram meu Github? 🤔</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/jvjfe/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
