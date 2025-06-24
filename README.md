@@ -9,7 +9,7 @@
 </table>
 
 
-## Quem sou eu? 🤔
+## Quem eu sou? 🤔
 
 - Sou um entusiasta de tecnologia, fã de Pokémon e Ordem Paranormal. 🎮👻
 - Adoro música Rock antiga e bandas alternativas japonesas (sim, ninguém deve conhecer essas bandas ksksaksk).
@@ -22,6 +22,11 @@
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+# Redes Sociais 
+- [Github](https://github.com/jvjfe)
+- [Instagram](https://www.instagram.com/_jvjfe_/)
+- [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-justino-ferri-912378302/)
 
 <div align="center">
   <h3><b>Quantos vezes já entraram no meu Github? 🤔</b></h3>
