@@ -33,8 +33,8 @@
 </div>
 
 <p align="center">
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
   <img
-    ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
     src="https://profile-counter.glitch.me/jvjfe/count.svg"
     alt="Número de visitantes no perfil"
   />
