@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/static/v1?label=Overview&message=jvjfe&color=8eff94&style=for-the-badge&logo=GitHub" alt="Static GitHub badge" />
 </p>
  <p align="center">
----
 
 ## Quem eu sou? 🤔
 
