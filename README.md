@@ -7,11 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Overview&message=jvjfe&color=8eff94&style=for-the-badge&logo=GitHub" alt="Static GitHub badge" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jvjfe&show_icons=true&title_color=0e0e0e&text_color=0e0e0e&icon_color=007706&bg_color=8eff94&cache_seconds=2300" alt="Status do GitHub" />
-</p>
-
+ <p align="center">
 ---
 
 ## Quem eu sou? 🤔
